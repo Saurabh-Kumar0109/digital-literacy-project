@@ -83,6 +83,7 @@ Set up professional accounts on the following platforms:
 | GitHub | Code portfolio & projects | 
 | LinkedIn | Professional networking | 
 | Kaggle | Data science & competitions |
+
 GitHub profile README includes: name, branch, year, and learning goals.
 LinkedIn Education section filled with current degree, institution, and
 expected graduation year.
